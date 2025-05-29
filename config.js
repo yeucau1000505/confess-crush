@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "guinguoitoiu...",
+    introTitle: 'Phuongvy',
+    introDesc: `Hơn 3 năm qua mình đã trải qua nhiều thứ, nhừng tình cảm lúc đó là chân thành và nồng nhiệt nhất, vậy sao khi ta trưởng thành hơn thì lại rời xa nhau `,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    title: 'An đã thay đổi nhiều thứ, cả tình cảm dành cho vy... 🥰',
+    desc: 'nhưng nó chỉ càng nhiều thêm, mình hãy bắt đầu lại từ những thứ nhỏ nhặt nhất nha ',
+    btnYes: '1 cơ hội cuối cùng ak <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    question: 'mệt thì an chăm sẽ chăm sóc, chán thì an sẽ đổi cách yêu, Pvy không phải tìm người mới nữa đâu, thứ nhất thời lời mình vui thì chỉ là trò chơi thôi <3',
+    btnReply: 'Đồng ý nha <3',
+    reply: 'tạm thời đồng ý đó nha <33333333',
+    mess: 'Mình biết mà 🥰. An sẽ làm cho vy hạnh phúc, thề với ôg trời lần này là lần cuối, lần sau ctay là lúc tôii cưới cậu 😘😘',
+    messDesc: 'Hè này an qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
